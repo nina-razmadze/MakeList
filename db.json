@@ -1,70 +1,67 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Alfred Graham",
+      "id": 17
     },
     {
-      "name": "Georgia O'Connell",
+      "name": "Bernice Hauck",
+      "id": 18
+    },
+    {
+      "name": "Amos O'Kon",
+      "id": 19
+    },
+    {
+      "name": "Marsha Osinski",
+      "id": 20
+    },
+    {
+      "name": "Armando Boyer",
+      "id": 21
+    },
+    {
+      "name": "Angel Yost",
+      "id": 22
+    }
+  ],
+  "albums": [
+    {
+      "userId": 17,
+      "title": "Modern Granite Salad",
+      "id": 1
+    },
+    {
+      "userId": 17,
+      "title": "Fantastic Granite Soap",
       "id": 2
     },
     {
-      "name": "Benny Wyman-Weimann",
+      "userId": 19,
+      "title": "Recycled Steel Table",
       "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6390718134222848",
+      "id": 1
     },
     {
-      "name": "Candice O'Hara-Torp PhD",
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5294711965220864",
+      "id": 2
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3997987755786240",
       "id": 4
     },
     {
-      "name": "Sonia Bahringer",
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=586593989558272",
       "id": 5
-    },
-    {
-      "name": "Rita Reilly",
-      "id": 6
-    },
-    {
-      "name": "Salvador Auer III",
-      "id": 7
-    },
-    {
-      "name": "Norma Hansen",
-      "id": 8
-    },
-    {
-      "name": "Virgil Okuneva",
-      "id": 9
-    },
-    {
-      "name": "Ted Effertz",
-      "id": 10
-    },
-    {
-      "name": "Ronnie Rippin",
-      "id": 11
-    },
-    {
-      "name": "Donna Wiegand",
-      "id": 12
-    },
-    {
-      "name": "Scott Koss DVM",
-      "id": 13
-    },
-    {
-      "name": "Gustavo Glover V",
-      "id": 14
-    },
-    {
-      "name": "Jenny Glover",
-      "id": 15
-    },
-    {
-      "name": "Mr. Carl Bernhard",
-      "id": 16
     }
-  ],
-  "albums": [],
-  "photos": []
+  ]
 }
