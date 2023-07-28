@@ -1,5 +1,70 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Georgia O'Connell",
+      "id": 2
+    },
+    {
+      "name": "Benny Wyman-Weimann",
+      "id": 3
+    },
+    {
+      "name": "Candice O'Hara-Torp PhD",
+      "id": 4
+    },
+    {
+      "name": "Sonia Bahringer",
+      "id": 5
+    },
+    {
+      "name": "Rita Reilly",
+      "id": 6
+    },
+    {
+      "name": "Salvador Auer III",
+      "id": 7
+    },
+    {
+      "name": "Norma Hansen",
+      "id": 8
+    },
+    {
+      "name": "Virgil Okuneva",
+      "id": 9
+    },
+    {
+      "name": "Ted Effertz",
+      "id": 10
+    },
+    {
+      "name": "Ronnie Rippin",
+      "id": 11
+    },
+    {
+      "name": "Donna Wiegand",
+      "id": 12
+    },
+    {
+      "name": "Scott Koss DVM",
+      "id": 13
+    },
+    {
+      "name": "Gustavo Glover V",
+      "id": 14
+    },
+    {
+      "name": "Jenny Glover",
+      "id": 15
+    },
+    {
+      "name": "Mr. Carl Bernhard",
+      "id": 16
+    }
+  ],
   "albums": [],
   "photos": []
 }
